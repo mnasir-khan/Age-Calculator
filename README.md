@@ -1,1 +1,1 @@
-Deploy Link: https://mnasir-khan.github.io/age-calculator/
+Deploy Link: https://mnasir-khan.github.io/Age-Calculator/
